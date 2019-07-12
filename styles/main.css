@@ -1,7 +1,3 @@
-body {
-
-}
-
 .header {
 	background-color: #F0BD36;
 	height: 100px;
@@ -14,8 +10,6 @@ body {
 }
 
 .card {
-	height: 390px;
-	width: 300px;
 	border: 2px solid #eaeaea;
 	border-radius: 3px;
 	margin-bottom: 20px;
