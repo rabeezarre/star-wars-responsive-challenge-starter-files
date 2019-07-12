@@ -1,0 +1,33 @@
+body {
+
+}
+
+.header {
+	background-color: #F0BD36;
+	height: 100px;
+	margin-bottom: 40px;
+}
+
+.header h1 {
+	margin: 10px 0px;
+	width: 400px;
+}
+
+.card {
+	height: 390px;
+	width: 300px;
+	border: 2px solid #eaeaea;
+	border-radius: 3px;
+	margin-bottom: 20px;
+}
+
+.card h4, .card p {
+	margin-left: 20px;
+	margin-top: 15px;
+	margin-bottom: 0px;
+}
+
+img {
+	width: 100%;
+}
+
